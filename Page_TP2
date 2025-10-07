@@ -7,4 +7,8 @@
     <body>
         <p>Voici notre projet utilisé avec Trello et Github</p>
     </body>
+
+    <footer>
+        <p> Ce TP a fait en cours de gestion de projet </p>
+    </footer>
 </html>
