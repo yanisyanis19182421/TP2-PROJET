@@ -3,7 +3,8 @@
     <header>
         <title> TP2 Projet </title>
     </header>
-
-    <h1> TP2 projet Marwan Adam Yanis</h1>
-
+    <h1> TP2 Projet Marwan Adam Yanis</h1>
+    <body>
+        <p>Voici notre projet utilisé avec Trello et Github</p>
+    </body>
 </html>
