@@ -1,2 +1,3 @@
 # TP2-PROJET
-Collaborateur : Adam ASSARI
+Collaborateur : - Adam ASSARI
+                - Yanis GROT
