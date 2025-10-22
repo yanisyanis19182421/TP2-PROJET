@@ -8,6 +8,6 @@ Nous avons fait une page HTML et nous l'avons testé, aucun problème n'est surv
 Update : 
 Nous venons de réaliser la page CSS et nous allons la lier à la page HTML.
 Attribution des tâches :
-ASSARI - Body en CSS (Pseudo Trello :adamassari ; Pseudo Github adamm097)
-GROT - Footer en CSS (Pseudo Trello :  yanisgrot867 ; Pseudo Github yanisyanis19182421)
-AARAB - Titre en CSS (pseudo Trello : marwanaarab28100 ; Pseudo Github Marwan2878)
+ASSARI - Body en CSS
+GROT - Footer en CSS
+AARAB - Titre en CSS
