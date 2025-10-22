@@ -2,6 +2,7 @@
 <html lang="'fr">
     <header>
         <title> TP2 Projet </title>
+        <link rel="stylesheet" type="text/css" media="screen" href="Page_css.css"
     </header>
     <h1> TP2 Projet Marwan Adam Yanis</h1>
     <body>
