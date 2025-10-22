@@ -3,3 +3,9 @@ header {
     font-style: italic;
 
 }
+body {
+    text-align: center;
+    border-top: 10px solid #688CD8;
+    border-bottom: 10px solid #688CD8;
+    background-color: #E8EFF7;
+}
